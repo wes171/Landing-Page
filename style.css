@@ -181,5 +181,12 @@ background-color: #1F2937;
     border-radius: 4px;
  }
 
-
+ .footer {
+    height: 90px;
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #F9FAF8;
+ }
 
